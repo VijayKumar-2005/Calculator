@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleKotlin</string>
+    <string name="splash_logo_desc">splash</string>
+</resources>
